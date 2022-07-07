@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Chloe Dream',
+  title: 'Chloe's Dream',
   author: 'Chloe',
   email: '#######',
   link: 'https://breezy-xylophone-2b8.notion.site/Welcome-to-Chloe-s-Dream-dfc643d943e44b23b4b94555b259ddf4',
@@ -10,7 +10,7 @@ const BLOG = {
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2021, // If leave this empty, current year will be used.
+  since: 2022, // If leave this empty, current year will be used.
   postsPerPage: 7,
   sortByDate: false,
   showAbout: true,
