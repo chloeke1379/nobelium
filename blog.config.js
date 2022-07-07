@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Chloe's Dream',
+  title: 'Chloe Dream',
   author: 'Chloe',
   email: '#######',
   link: 'https://breezy-xylophone-2b8.notion.site/Welcome-to-Chloe-s-Dream-dfc643d943e44b23b4b94555b259ddf4',
