@@ -2,9 +2,9 @@ const BLOG = {
   title: 'Chloe Dream',
   author: 'Chloe',
   email: '#######',
-  link: 'https://www.notion.so/2e3ee05b473142daa723bc856d1072df?v=32a3aa0b67fa4f9088d2cb22491eef5c',
+  link: 'https://breezy-xylophone-2b8.notion.site/Welcome-to-Chloe-s-Dream-dfc643d943e44b23b4b94555b259ddf4',
   description: 'This gonna be an awesome website.',
-  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  lang: 'zh-TW', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
