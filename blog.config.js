@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'Chloe Dream',
   author: 'Chloe',
-  email: '#######',
+  email: 'alviss4582@gmail.com',
   link: 'https://breezy-xylophone-2b8.notion.site/Welcome-to-Chloe-s-Dream-dfc643d943e44b23b4b94555b259ddf4',
   description: 'This gonna be an awesome website.',
   lang: 'zh-TW', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
