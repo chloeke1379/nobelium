@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Chloe Dream',
   author: 'Chloe',
   email: '#######',
-  link: 'OXOXOXOX',
+  link: 'https://www.notion.so/2e3ee05b473142daa723bc856d1072df?v=32a3aa0b67fa4f9088d2cb22491eef5c',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
