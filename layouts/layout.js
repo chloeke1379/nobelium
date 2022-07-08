@@ -80,7 +80,7 @@ const Layout = ({
           </div>
         )}
       </article>
-      <div className="flex justify-between font-medium text-gray-500 dark:text-gray-400 my-5"> //增加垂直顯示的距離
+      <div className="flex justify-between font-medium text-gray-500 dark:text-gray-400 my-5"> // 增加垂直顯示的距離
         <a>
           <button
             onClick={() => router.push(BLOG.path || '/')}
