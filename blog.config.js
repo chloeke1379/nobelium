@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Chloe',
   email: 'alviss4582@gmail.com',
   link: 'https://breezy-xylophone-2b8.notion.site/Welcome-to-Chloe-s-Dream-dfc643d943e44b23b4b94555b259ddf4',
-  description: 'This gonna be an awesome website.',
+  description: 'Peace comes from within. Do not seek it without.',
   lang: 'zh-TW', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
